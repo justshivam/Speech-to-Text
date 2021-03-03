@@ -1,6 +1,8 @@
 # Speech-to-Text
 This is a python program which coverts speech to text. It uses Speech Recognition library and  Pyaudio for the basic functions. 
 
+### Setup
+
 Before using the script, please run the following command:
   
   pip install SpeechRecognition
